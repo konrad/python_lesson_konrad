@@ -1,4 +1,4 @@
 # Python Lesson
 
-Author: Konrad Förstner
+Authors: Konrad U. Förstner, Vanessa Scharf, Rebea Müller
 
